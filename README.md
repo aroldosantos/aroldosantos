@@ -3,7 +3,7 @@
 ## I'm Aroldo Santos, web developer.
 
 
-<p.I really like working with the web, especially with the PHP language and the Laravel framework. But I also apply Javascript and Python to a lesser extent.</p>
+<p>I really like working with the web, especially with the PHP language and the Laravel framework. But I also apply Javascript and Python to a lesser extent.</p>
 
 <p>As you can see, I cleaned up my Github. But in the weeks ahead we'll be back to having fun with code, whether to practice or to create. Until then!</p>
 
