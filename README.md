@@ -15,7 +15,7 @@ As you can see, I cleaned up my Github. But in the weeks ahead we'll be back to 
   </a>
 </div>
 
-<div style="display: inline_block; padding: 30px 0">
+<!-- <div style="display: inline_block; padding: 30px 0">
   <img width="50" height=="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img width="50" height=="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img width="50" height=="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -23,7 +23,7 @@ As you can see, I cleaned up my Github. But in the weeks ahead we'll be back to 
   <img width="50" height=="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img width="50" height=="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />  
 </div>
-
+ -->
 
 <!--
 **aroldosantos/aroldosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
