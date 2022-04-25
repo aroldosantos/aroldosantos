@@ -6,7 +6,7 @@ I really like working with the web, especially with the PHP language and the Lar
 
 As you can see, I cleaned up my Github. But in the weeks ahead we'll be back to having fun with code, whether to practice or to create. Until then!
 
-<div style="display: block; padding: 30px 0">
+<div style="float:left; padding: 30px 0">
   <a href="https://github.com/aroldosantos/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aroldosantos&show_icons=true&theme=gruvbox" />
   </a>
@@ -15,7 +15,7 @@ As you can see, I cleaned up my Github. But in the weeks ahead we'll be back to 
   </a>
 </div>
 
-<div style="display: inline_block; padding: 40px 0; text-align: center; background-color: #eeeeee">
+<div style="float:left; display: inline_block; padding: 20px 0; text-align: center; background-color: #eeeeee">
   <img width="80" 	style="padding: 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="60" 	style="padding: 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img height="60" 	style="padding: 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
