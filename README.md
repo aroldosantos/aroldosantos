@@ -1,5 +1,5 @@
-###Hey guys!
-####I'm Aroldo Santos, web developer.
+### Hey guys!
+#### I'm Aroldo Santos, web developer.
 
 
 I really like working with the web, especially with the PHP language and the Laravel framework. But I also apply Javascript and Python to a lesser extent.
