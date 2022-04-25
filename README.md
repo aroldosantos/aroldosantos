@@ -7,7 +7,7 @@ I really like working with the web, especially with the PHP language and the Lar
 As you can see, I cleaned up my Github. But in the weeks ahead we'll be back to having fun with code, whether to practice or to create. Until then!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroldosantos&show_icons=true&theme=radical)
 
 <!--
 **aroldosantos/aroldosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
