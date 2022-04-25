@@ -6,8 +6,15 @@ I really like working with the web, especially with the PHP language and the Lar
 
 As you can see, I cleaned up my Github. But in the weeks ahead we'll be back to having fun with code, whether to practice or to create. Until then!
 
+<a href="https://github.com/aroldosantos/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aroldosantos&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/aroldosantos/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aroldosnatos&repo=convoychat" />
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroldosantos&show_icons=true&theme=radical) 
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroldosantos&show_icons=true&theme=radical)  -->
 <!-- [![aroldosantos wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aroldosantos)](https://github.com/aroldosantos/github-readme-stats) -->
 
 <!--
