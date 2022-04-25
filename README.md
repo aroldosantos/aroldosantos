@@ -6,20 +6,21 @@ I really like working with the web, especially with the PHP language and the Lar
 
 As you can see, I cleaned up my Github. But in the weeks ahead we'll be back to having fun with code, whether to practice or to create. Until then!
 
+<div style="display: block; margin: 30px 0">
 <a href="https://github.com/aroldosantos/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aroldosantos&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/aroldosantos/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroldosantos&layout=compact)](https://github.com/aroldosantos/github-readme-stats" />
 </a>
-
+</div>
 <div style="display: inline_block; margin: 30px 0">
-  <img width="40" height=="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img width="40" height=="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  <img width="40" height=="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width="40" height=="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img width="40" height=="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img width="40" height=="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />  
+  <img width="50" height=="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img width="50" height=="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img width="50" height=="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img width="50" height=="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img width="50" height=="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img width="50" height=="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />  
 </div>
 
 
