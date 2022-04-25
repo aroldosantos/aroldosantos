@@ -15,7 +15,7 @@ As you can see, I cleaned up my Github. But in the weeks ahead we'll be back to 
   </a>
 </div>
 
-<div style="display: inline_block; padding: 40px 0; text-align: center">
+<div style="display: inline_block; padding: 40px 0; text-align: center; background-color: #eeeeee">
   <img width="80" 	style="padding: 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="60" 	style="padding: 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img height="60" 	style="padding: 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
