@@ -1,5 +1,5 @@
-### Hey guys!
-#### I'm Aroldo Santos, web developer.
+## Hey guys!
+### I'm Aroldo Santos, web developer.
 
 
 I really like working with the web, especially with the PHP language and the Laravel framework. But I also apply Javascript and Python to a lesser extent.
@@ -15,7 +15,7 @@ As you can see, I cleaned up my Github. But in the weeks ahead we'll be back to 
   </a>
 </div>
 
-<div style="float:left; display: inline_block; margin: 20px 0; text-align: center; background-color: #eeeeee">
+<div style=" display: inline_block; margin: 20px 0; text-align: center;">
   <img width="80" 	style="padding: 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="60" 	style="padding: 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img height="60" 	style="padding: 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
